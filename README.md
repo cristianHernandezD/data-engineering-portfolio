@@ -31,7 +31,7 @@ Includes but is not limited to:
 
 ---
 
-## 📌 About Me
+## 📌 Contact Information
 
 📫 cristiandhd@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/cristian-hernandez-diaz/)
