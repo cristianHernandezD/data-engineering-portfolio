@@ -9,6 +9,7 @@ Here you'll find learning summaries, hands-on exercises, and projects based on r
 
 - `entries/`: Learning logs and exercises organized by topic or module.
 - `certifications/`: Notes, progress, and reflections from professional certifications.
+- `projects/`: Practical projects developed during the learning journey.
 - `tools.md`: Overview of the key tools, platforms, and technologies I've learned and worked with.
 
 ---
