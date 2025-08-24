@@ -1,4 +1,4 @@
-# Project 03: Python Project for Data Engineering
+# Project: Python Project for Data Engineering
 
 This project is part of the **IBM Data Engineering Professional Certificate**.  
 The objective was to create an ETL (Extract, Transform, Load) pipeline using **Python** and **SQLite3**.
